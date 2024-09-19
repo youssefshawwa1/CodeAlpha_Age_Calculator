@@ -1,4 +1,4 @@
-# Age Calculator - CodeAlpha Web Development Internship
+# Simple_Age_Calculator
 
 This project is a simple age calculator built using HTML, CSS, and JavaScript. It allows users to enter their date of birth and calculate their current age in years, months, and days.
 
@@ -14,11 +14,11 @@ HTML: Defines the structure and content of the web page.
 CSS: Styles the layout and appearance of the page.
 JavaScript: Handles user input and performs the age calculation.
 Getting Started:
-You can see a life demo here: https://youssefshawwa1.github.io/CodeAlpha_Age_Calculator/
+You can see a life demo here: https://youssefshawwa1.github.io/simple-age-calculator/
 
 Clone or Download the Repository:
 
-Use Git to clone the repository: git clone https://github.com/youssefshawwa1/CodeAlpha_Age_Calculator.git
+Use Git to clone the repository: git clone https://github.com/youssefshawwa1/simple-age-calculator.git
 Alternatively, download the ZIP file from your GitHub repository.
 Open the Files:
 
