@@ -48,6 +48,12 @@ body::-webkit-scrollbar {
 }
 .calculator h1 {
     font-size: 2rem;
+    cursor:default
+}
+.calculator h1:hover{
+    transition: .3s;
+    text-shadow: 2px 5px 5px  #706f6f;;
+
 }
 .calculator span {
     color: #b27474;
@@ -80,6 +86,13 @@ cursor: pointer;
 box-shadow: none;
 border: none;
 }
+.input-box button:hover {
+    box-shadow: 1px 1px 5px 5px #706f6f;
+    transition: .3s;
+}
+.input-box button:active {
+    background-color: #926161;
+}
 .input-box input::-webkit-calendar-picker-indicator {
     top: 0;
     left: 0;
@@ -97,4 +110,5 @@ border: none;
 #result {
     font-size: 20px;
     font-weight: bold;
+    cursor:default
 }
